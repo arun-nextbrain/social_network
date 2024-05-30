@@ -13,12 +13,12 @@ This project is a social networking API built with Django and Django Rest Framew
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/django-social-network.git
+    git https://github.com/arun-nextbrain/social_network.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd django-social-network
+    cd social_network
     ```
 
 3. Build and start the Docker containers:
