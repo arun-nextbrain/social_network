@@ -100,9 +100,16 @@ The API will be accessible at `http://127.0.0.1:8000/`.
 - **Body:**
     ```json
     {
-        "status": "accepted"  // or "rejected"
+        "status": "accepted"
     }
     ```
+    or
+    ```json
+    {
+        "status": "rejected"
+    }
+    ```
+
 
 ### List Friends
 
